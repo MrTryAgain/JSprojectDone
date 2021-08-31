@@ -1,6 +1,6 @@
 <?php 
-  require_once $_SERVER['HOME'].'/projects/js_nutshell/config.php';
-  require_once $_SERVER['HOME'].'/projects/js_nutshell/inc/header.inc.php';
+  require_once '../config.php';
+  require_once 'header.inc.php';
   
   
 ?>
@@ -25,7 +25,7 @@
         </div>
     
         <div class="codeArea flex-container codeExample">
-            <div class="col-6 code">
+            <div class="col-md-6 col-sm-12 code">
                 
                   <h4>Code:</h4>
                       
@@ -41,7 +41,7 @@
                     <!-- CODE HERE-->
                   </pre>
             </div>
-              <div class="col-6 output">
+              <div class="col-md-6 col-sm-12 output">
                 <h4>Output:</h4>
                 <p>
                     <!-- OUTPUT HERE -->
