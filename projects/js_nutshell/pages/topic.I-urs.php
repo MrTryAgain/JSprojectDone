@@ -7,7 +7,7 @@
 
 <main>
     <div class="container">
-        <h1>Date and Time</h1> <!-- TITLE -->
+        <h1>Date and Time</h1>  <!-- TITLE -->
         <div class="teaser">
             <p>
             a simple Time and Date function, have fun! 
